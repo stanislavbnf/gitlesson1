@@ -1,2 +1,5 @@
 test.txt
 creditcard.txt
+ignore_me3.txt
+ignore_me[0-100].txt
+ignore_me[a-z].txt
